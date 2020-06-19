@@ -34,9 +34,9 @@ body {
   color: #f0ad4e;
 }
 
-/* jumbotron */
+/* jumbotron index */
 
-.jumbotron {
+#jumbo-index {
   max-width: 100%;
   min-height: 80vh;
   background-image: url(pictures/mainpagedog.jpg);
@@ -58,6 +58,24 @@ body {
 
 .normal-btn {
   background-color: #e3f2fd;
+}
+
+/* Jumbotron chambers */
+
+#jumbo-chamber {
+    max-width: 100%;
+    min-height: 80vh;
+    background-image: url(pictures/entrance.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+}
+
+#jumbo-chamber-words {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 15px;
+    font-size: 20px;
 }
 
 /* footer */
