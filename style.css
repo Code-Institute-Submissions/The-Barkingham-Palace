@@ -68,12 +68,11 @@ body {
 
 #footer-row {
   height: auto;
-  overflow: hidden;
-  padding: 20px 0 0 20px;
+  padding: 20px 0 20px 20px;
 }
 
 .fa {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 /* ipad screen and below */
@@ -83,6 +82,14 @@ body {
     display: block;
     margin-bottom: 20px;
   }
+
+  .fa {
+      font-size: 30px;
+  }
+
+  #social-words {
+      display: none;
+  }
 }
 
 /* large screen nav spacing */
@@ -91,6 +98,5 @@ body {
     .nav-item {
     display: flex;
     align-items: center;
-
     }
 }
