@@ -47,9 +47,10 @@ body {
   }
 
 #jumbo-words {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.8);
   padding: 15px;
   font-size: 20px;
+  max-width: 60%;
 }
 
 #reserve-btn {
@@ -65,7 +66,7 @@ body {
 #jumbo-chamber {
     max-width: 100%;
     min-height: 80vh;
-    background-image: url(pictures/entrance.jpg);
+    background-image: url(pictures/chamberjumbo.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -73,9 +74,20 @@ body {
 }
 
 #jumbo-chamber-words {
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.8);
     padding: 15px;
     font-size: 20px;
+    max-width: 60%
+}
+
+/* chambers cards */
+
+.chambers-card {
+    margin: 40px 20px;
+}
+
+.chamber-button {
+    background-color: #e3f2fd;
 }
 
 /* footer */
