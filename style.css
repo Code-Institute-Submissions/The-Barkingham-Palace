@@ -107,7 +107,7 @@ body {
 }
 
 #social-main {
-   padding-top: 30px;
+   padding-top: 15px;
 }
 
 #social-words {
@@ -199,4 +199,10 @@ body {
     #contact-xs {
         display: none;
     }
+}
+
+/* chambers medium screen size */
+
+@media screen and (max-width: 988px) {
+
 }
