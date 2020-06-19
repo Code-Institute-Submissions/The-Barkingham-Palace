@@ -50,7 +50,7 @@ body {
   background-color: rgba(255, 255, 255, 0.7);
   padding: 15px;
   font-size: 20px;
-  max-width: 60%;
+  max-width: 100%;
 }
 
 #reserve-btn {
@@ -77,7 +77,7 @@ body {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 15px;
     font-size: 20px;
-    max-width: 60%
+    max-width: 100%
 }
 
 /* chambers cards */
@@ -86,13 +86,38 @@ body {
     margin: 40px 20px;
 }
 
-.chamber-button {
+.booking-button {
     background-color: #CBE7FB;
     /* border: 1px solid black; */
 }
 
 .card-text-background {
     background-color: #FDEEE3;
+}
+
+/* facilities jumbotron */
+
+#jumbo-facilities {
+    max-width: 100%;
+    min-height: 80vh;
+    background-image: url(pictures/facilitiescover.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+}
+
+#jumbo-facilities-words {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    font-size: 20px;
+    max-width: 100%
+}
+
+/* facilities card */
+
+.facilities-card {
+    margin: 40px 20px;
 }
 
 /* footer */
@@ -165,7 +190,7 @@ body {
 
 }
 
-/* Just for jumbotron */
+/* med small screen jumbotron */
 
 @media screen and (max-width: 1100px) {
     #jumbo-words {
@@ -181,6 +206,13 @@ body {
     font-size: 20px;
     max-width: 100%
     }
+
+    #jumbo-facilities-words {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    font-size: 20px;
+    max-width: 100%
+}
 }
 
 /* large screen nav spacing */
