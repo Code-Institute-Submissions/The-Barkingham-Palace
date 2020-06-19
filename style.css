@@ -47,7 +47,7 @@ body {
   }
 
 #jumbo-words {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.7);
   padding: 15px;
   font-size: 20px;
   max-width: 60%;
@@ -87,7 +87,12 @@ body {
 }
 
 .chamber-button {
-    background-color: #e3f2fd;
+    background-color: #CBE7FB;
+    /* border: 1px solid black; */
+}
+
+.card-text-background {
+    background-color: #FDEEE3;
 }
 
 /* footer */
@@ -160,6 +165,24 @@ body {
 
 }
 
+/* Just for jumbotron */
+
+@media screen and (max-width: 1100px) {
+    #jumbo-words {
+        background-color: rgba(255, 255, 255, 0.7);
+        padding: 15px;
+        font-size: 20px;
+        max-width: 100%;
+    }
+
+    #jumbo-chamber-words {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    font-size: 20px;
+    max-width: 100%
+    }
+}
+
 /* large screen nav spacing */
 
 @media screen and (min-width: 1011px) {
@@ -167,6 +190,7 @@ body {
     display: flex;
     align-items: center;
     }
+
 }
 
 /* extra small screen */
