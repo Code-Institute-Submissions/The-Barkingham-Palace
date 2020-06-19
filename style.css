@@ -25,6 +25,7 @@ body {
   justify-content: space-around;
 }
 
+
 .navbar-toggler-icon {
     color: #f0ad4e;
 }
@@ -36,7 +37,8 @@ body {
 /* jumbotron */
 
 .jumbotron {
-  height: 80vh;
+  max-width: 100%;
+  min-height: 80vh;
   background-image: url(pictures/mainpagedog.jpg);
   background-size: cover;
   background-position: center;
@@ -62,12 +64,16 @@ body {
 
 #footer-container {
   background-color: #e3f2fd;
-  overflow: hidden;
 }
 
 #footer-row {
-  height: 100px;
+  height: auto;
   overflow: hidden;
+  padding: 20px 0 0 20px;
+}
+
+.fa {
+    font-size: 15px;
 }
 
 /* ipad screen and below */
@@ -77,4 +83,14 @@ body {
     display: block;
     margin-bottom: 20px;
   }
+}
+
+/* large screen nav spacing */
+
+@media screen and (min-width: 1011px) {
+    .nav-item {
+    display: flex;
+    align-items: center;
+
+    }
 }
