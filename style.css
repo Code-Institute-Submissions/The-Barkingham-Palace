@@ -102,7 +102,7 @@ body {
     min-height: 80vh;
     background-image: url(pictures/facilitiescover.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: 70% 70%;
     background-repeat: no-repeat;
     margin-bottom: 0;
 }
@@ -223,6 +223,9 @@ body {
     align-items: center;
     }
 
+    #groom-facilities-text {
+        padding-bottom: 40px !important;
+    }
 }
 
 /* extra small screen */
