@@ -51,6 +51,7 @@ body {
   padding: 15px;
   font-size: 20px;
   max-width: 100%;
+  margin: 10%;
 }
 
 #reserve-btn {
@@ -77,7 +78,8 @@ body {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 15px;
     font-size: 20px;
-    max-width: 100%
+    max-width: 100%;
+    margin: 10%;
 }
 
 /* facilities jumbotron */
@@ -96,7 +98,8 @@ body {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 15px;
     font-size: 20px;
-    max-width: 100%
+    max-width: 100%;
+    margin: 10%;
 }
 
 /* pricing jumbotron */
@@ -115,7 +118,8 @@ body {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 15px;
     font-size: 20px;
-    max-width: 100%
+    max-width: 100%;
+    margin: 10%;
 }
 
 
