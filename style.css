@@ -79,7 +79,7 @@ body {
     padding: 15px;
     font-size: 20px;
     max-width: 100%;
-    margin: 10%;
+    margin: 15%;
 }
 
 /* facilities jumbotron */
@@ -99,7 +99,7 @@ body {
     padding: 15px;
     font-size: 20px;
     max-width: 100%;
-    margin: 10%;
+    margin: 15%;
 }
 
 /* pricing jumbotron */
@@ -119,7 +119,7 @@ body {
     padding: 15px;
     font-size: 20px;
     max-width: 100%;
-    margin: 10%;
+    margin: 15%;
 }
 
 /* safety jumbotron */
@@ -139,8 +139,27 @@ body {
     padding: 15px;
     font-size: 20px;
     max-width: 100%;
-    margin: 10%;
+    margin: 15%;
 }
+
+/* Royal club jumbotron */
+
+#jumbo-royal {
+    max-width: 100%;
+    min-height: 80vh;
+    background-image: url(pictures/royaljumbo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+}
+
+#jumbo-royal-words {
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 15px;
+    font-size: 20px;
+    max-width: 100%;
+    margin: 15%;
 
 /* chambers cards */
 
@@ -272,7 +291,7 @@ body {
     #jumbo-chamber-words {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 15px;
-    font-size: 10px;
+    font-size: 20px;
     max-width: 100%;
     }
 
