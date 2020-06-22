@@ -217,6 +217,15 @@ body {
 
 .royal-card {
     margin: 40px 20px;
+    color: #f0ad4e;
+}
+
+.royal-card-bg {
+    background-color: black;
+}
+
+.royal-booking-btn {
+    background-color: #f0ad4e;
 }
 
 /* footer */
