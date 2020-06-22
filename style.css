@@ -160,6 +160,11 @@ body {
     font-size: 20px;
     max-width: 100%;
     margin: 15%;
+}
+
+#royal-main {
+    background-color: black;
+}
 
 /* chambers cards */
 
@@ -205,6 +210,12 @@ body {
 /* safety cards */
 
 .safety-card {
+    margin: 40px 20px;
+}
+
+/* Royal Club cards */
+
+.royal-card {
     margin: 40px 20px;
 }
 
