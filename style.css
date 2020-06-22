@@ -75,7 +75,7 @@ body {
 }
 
 #jumbo-chamber-words {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.6);
     padding: 15px;
     font-size: 20px;
     max-width: 100%;
@@ -95,7 +95,7 @@ body {
 }
 
 #jumbo-facilities-words {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.6);
     padding: 15px;
     font-size: 20px;
     max-width: 100%;
@@ -115,13 +115,32 @@ body {
 }
 
 #jumbo-prices-words {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.6);
     padding: 15px;
     font-size: 20px;
     max-width: 100%;
     margin: 10%;
 }
 
+/* safety jumbotron */
+
+#jumbo-safety {
+    max-width: 100%;
+    min-height: 80vh;
+    background-image: url(pictures/safetyjumbo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+}
+
+#jumbo-safety-words {
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 15px;
+    font-size: 20px;
+    max-width: 100%;
+    margin: 10%;
+}
 
 /* chambers cards */
 
@@ -139,13 +158,13 @@ body {
 }
 
 
-/* facilities card */
+/* facilities cards */
 
 .facilities-card {
     margin: 40px 20px;
 }
 
-/* pricing card */
+/* pricing cards */
 
 .prices-card {
     margin: 40px 20px;
@@ -162,6 +181,12 @@ body {
 
 #prices-royal-card {
     background-color: #f0ad4e;
+}
+
+/* safety cards */
+
+.safety-card {
+    margin: 40px 20px;
 }
 
 /* footer */
@@ -248,14 +273,14 @@ body {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 15px;
     font-size: 20px;
-    max-width: 100%
+    max-width: 100%;
     }
 
     #jumbo-facilities-words {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 15px;
     font-size: 20px;
-    max-width: 100%
+    max-width: 100%;
 }
 }
 
