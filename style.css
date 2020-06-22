@@ -204,6 +204,11 @@ body {
 }
 
 #prices-royal-card {
+    background-color: black;
+    color: #f0ad4e;
+}
+
+#pricing-booking-btn {
     background-color: #f0ad4e;
 }
 
