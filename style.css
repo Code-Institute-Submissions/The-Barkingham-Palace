@@ -150,7 +150,7 @@ h1 {
 
 #jumbo-words {
   background-color: #e3f2fdB3;
-  padding: 15px;
+  padding: 30px;
   font-size: 20px;
   max-width: 100%;
   margin: 10%;
@@ -179,7 +179,7 @@ h1 {
 
 #jumbo-chamber-words {
     background-color: #e3f2fdB3;
-    padding: 15px;
+    padding: 30px;
     font-size: 20px;
     max-width: 100%;
     margin: 15%;
@@ -199,7 +199,7 @@ h1 {
 
 #jumbo-facilities-words {
     background-color: #e3f2fdB3;
-    padding: 15px;
+    padding: 30px;
     font-size: 20px;
     max-width: 100%;
     margin: 15%;
@@ -219,7 +219,7 @@ h1 {
 
 #jumbo-prices-words {
     background-color: #e3f2fdB3;
-    padding: 15px;
+    padding: 30px;
     font-size: 20px;
     max-width: 100%;
     margin: 15%;
@@ -239,7 +239,7 @@ h1 {
 
 #jumbo-safety-words {
     background-color: #e3f2fdB3;
-    padding: 15px;
+    padding: 30px;
     font-size: 20px;
     max-width: 100%;
     margin: 15%;
@@ -259,7 +259,7 @@ h1 {
 
 #jumbo-royal-words {
     background-color: #e3f2fdB3;
-    padding: 15px;
+    padding: 30px;
     font-size: 20px;
     max-width: 100%;
     margin: 15%;
@@ -414,22 +414,22 @@ h1 {
 
 @media screen and (max-width: 1100px) {
     #jumbo-words {
-        background-color: rgba(255, 255, 255, 0.7);
-        padding: 15px;
+        background-color: #e3f2fdB3;
+        padding: 30px;
         font-size: 20px;
         max-width: 100%;
     }
 
     #jumbo-chamber-words {
-    background-color: rgba(255, 255, 255, 0.8);
-    padding: 15px;
+    background-color: #e3f2fdB3;
+    padding: 30px;
     font-size: 20px;
     max-width: 100%;
     }
 
     #jumbo-facilities-words {
-    background-color: rgba(255, 255, 255, 0.8);
-    padding: 15px;
+    background-color: #e3f2fdB3;
+    padding: 30px;
     font-size: 20px;
     max-width: 100%;
 }
