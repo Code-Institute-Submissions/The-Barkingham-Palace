@@ -1,7 +1,37 @@
 body {
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 0;
+}
+
+/* font styling */
+
+.nav-item {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-title {
+    font-family: 'Poppins', sans-serif;
+}
+
+#social-words {
+    font-family: 'Poppins', sans-serif;
+}
+
+#contact-us {
+    font-family: 'Poppins', sans-serif;
+}
+
+#address {
+    font-family: 'Poppins', sans-serif;
 }
 
 /* navbar logo */
@@ -167,6 +197,10 @@ body {
     max-width: 100%;
     margin: 15%;
 }
+
+/* #royal-jumbo-header {
+    color: #f0ad4e;
+} */
 
 #royal-main {
     background-color: black;
