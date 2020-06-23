@@ -53,6 +53,19 @@ body {
     0% {top: -100px}
     100% {top: 0px}
 }
+
+.btn {
+    animation-name: button-ani;
+    animation-duration: 2s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
+
+@keyframes button-ani {
+    0% {opacity: 0;}
+    100%{opacity: 1;}
+}
 /* font styling */
 
 .nav-item {
