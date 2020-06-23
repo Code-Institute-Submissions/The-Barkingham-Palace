@@ -4,6 +4,55 @@ body {
   padding: 0;
 }
 
+/* animations */
+
+.jumbotron {
+    position: relative;
+    animation-name: jumbo-ani;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes jumbo-ani {
+    0% {left: -100px}
+    100% {left: 0px}
+}
+
+.card-left {
+    position: relative;
+    animation-name: card-left-ani;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes card-left-ani {
+    0% {left: -50px}
+    100% {left: 0px}
+}
+
+.card-right {
+    position: relative;
+    animation-name: card-right-ani;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes card-right-ani {
+    0% {right: -50px}
+    100% {right: 0px}
+}
+
+.card-center {
+    position: relative;
+    animation-name: card-center-ani;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes card-center-ani {
+    0% {top: -100px}
+    100% {top: 0px}
+}
 /* font styling */
 
 .nav-item {
