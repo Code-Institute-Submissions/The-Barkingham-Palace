@@ -34,6 +34,10 @@ h1 {
     font-family: 'Poppins', sans-serif;
 }
 
+.lead {
+    font-weight: 700;
+}
+
 /* navbar logo */
 
 .navbar img{
@@ -83,7 +87,7 @@ h1 {
   }
 
 #jumbo-words {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: #e3f2fdB3;
   padding: 15px;
   font-size: 20px;
   max-width: 100%;
@@ -96,6 +100,7 @@ h1 {
 
 .normal-btn {
   background-color: #e3f2fd;
+  border: 1px black solid;
 }
 
 /* Jumbotron chambers */
@@ -111,7 +116,7 @@ h1 {
 }
 
 #jumbo-chamber-words {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: #e3f2fdB3;
     padding: 15px;
     font-size: 20px;
     max-width: 100%;
@@ -131,7 +136,7 @@ h1 {
 }
 
 #jumbo-facilities-words {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: #e3f2fdB3;
     padding: 15px;
     font-size: 20px;
     max-width: 100%;
@@ -143,7 +148,7 @@ h1 {
 #jumbo-prices {
     max-width: 100%;
     min-height: 80vh;
-    background-image: url(pictures/pricesjumbo.jpg);
+    background-image: url(pictures/pricesjumbo1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -151,7 +156,7 @@ h1 {
 }
 
 #jumbo-prices-words {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: #e3f2fdB3;
     padding: 15px;
     font-size: 20px;
     max-width: 100%;
@@ -171,7 +176,7 @@ h1 {
 }
 
 #jumbo-safety-words {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: #e3f2fdB3;
     padding: 15px;
     font-size: 20px;
     max-width: 100%;
@@ -191,7 +196,7 @@ h1 {
 }
 
 #jumbo-royal-words {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: #e3f2fdB3;
     padding: 15px;
     font-size: 20px;
     max-width: 100%;
