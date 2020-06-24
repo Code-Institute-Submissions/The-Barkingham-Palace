@@ -6,7 +6,7 @@ body {
 
 /* animations */
 
-.jumbotron {
+/* .jumbotron {
     position: relative;
     animation-name: jumbo-ani;
     animation-duration: 2s;
@@ -16,7 +16,7 @@ body {
 @keyframes jumbo-ani {
     0% {left: -100px}
     100% {left: 0px}
-}
+} */
 
 .card-left {
     position: relative;
