@@ -6,14 +6,14 @@ body {
 
 /* animations */
 
-/* .jumbotron {
+.jumbotron {
     position: relative;
     animation-name: jumbo-ani;
     animation-duration: 2s;
     animation-fill-mode: forwards;
 }
 
-@keyframes jumbo-ani {
+/* @keyframes jumbo-ani {
     0% {left: -100px}
     100% {left: 0px}
 } */
