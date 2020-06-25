@@ -356,6 +356,7 @@ h1 {
 .contact-page-text {
     font-size: 30px !important;
     color: black;
+    margin-bottom: 0;
 }
 
 .contact-page-contact {
@@ -366,9 +367,20 @@ h1 {
 }
 
 .booking-contact-button {
-    background-color: #CBE7FB;
+    background-color: #d3ebfd;
     text-decoration: none;
+    width: 100%;
 }
+
+/* Button links hover */
+
+#contact-phone-hover:hover span {display:none;}
+
+#contact-phone-hover:hover {font-size: 30px;}
+
+#contact-phone-hover:hover:before {content:"Call Us!"}
+
+
 
 .booking-contact-button a {
     color: black !important;
