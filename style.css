@@ -359,7 +359,7 @@ h1 {
     margin-bottom: 0;
 }
 
-.contact-page-contact {
+.contact-page-bg {
     padding: 20px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -372,13 +372,25 @@ h1 {
     width: 100%;
 }
 
+
+
 .contact-label {
     font-size: 20px;
 }
 
 input:focus::placeholder {
     color: transparent;
-  }
+}
+
+label {
+    margin-right: 10px;
+    margin-bottom: 0;
+}
+
+#contact-form {
+    margin-top: 30px;
+}
+
 
 /* Button links hover */
 
@@ -401,6 +413,12 @@ input:focus::placeholder {
 
 /* ----------------Other Screen Sizes---------------- */
 
+@media screen and (max-width: 767px) {
+    .contact-input-spacing {
+        padding-bottom: 20px;
+    }
+}
+
 /* ipad screen and below */
 
 @media screen and (max-width: 660px) {
@@ -422,7 +440,9 @@ input:focus::placeholder {
       display: none;
   }
 
-
+  #contact-get-back {
+      font-size: 25px;
+  }
 
 }
 
