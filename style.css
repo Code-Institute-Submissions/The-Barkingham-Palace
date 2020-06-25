@@ -10,6 +10,13 @@ body {
     background-color: black;
 }
 
+.booking-button {
+    background-color: #CBE7FB;
+}
+
+.booking-button:hover {
+    background-color:#2e9dec;
+}
 /* ----------------Font stylings---------------- */
 
 .nav-item {
@@ -261,11 +268,6 @@ h1 {
 
 .prices-card {
     margin: 40px 20px;
-}
-
-.booking-button {
-    background-color: #CBE7FB;
-    /* border: 1px solid black; */
 }
 
 .card-text-background {
