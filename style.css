@@ -372,6 +372,14 @@ h1 {
     width: 100%;
 }
 
+.contact-label {
+    font-size: 20px;
+}
+
+input:focus::placeholder {
+    color: transparent;
+  }
+
 /* Button links hover */
 
 #contact-phone-hover:hover span {display:none;}
@@ -380,6 +388,11 @@ h1 {
 
 #contact-phone-hover:hover:before {content:"Call Us!"}
 
+#contact-add-hover:hover span {display:none;}
+
+#contact-add-hover:hover {font-size: 30px;}
+
+#contact-add-hover:hover:before {content:"Find Us On Google Maps!"}
 
 
 .booking-contact-button a {
