@@ -400,8 +400,10 @@ h1 {
     }
 }
 
-/* chambers medium screen size */
+/* All jumbotron descriptions in 720px and below */
 
-@media screen and (max-width: 988px) {
-
+@media screen and (max-width: 720px) {
+    .jumbo-description {
+        display: none;
+    }
 }
