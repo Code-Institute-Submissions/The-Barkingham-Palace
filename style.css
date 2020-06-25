@@ -1,72 +1,16 @@
+/* ----------------Background Stylings---------------- */
+
 body {
   font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 0;
 }
 
-/* animations */
-
-.jumbotron {
-    position: relative;
-    animation-name: jumbo-ani;
-    animation-duration: 2s;
-    animation-fill-mode: forwards;
+#royal-main {
+    background-color: black;
 }
 
-/* @keyframes jumbo-ani {
-    0% {left: -100px}
-    100% {left: 0px}
-} */
-
-.card-left {
-    position: relative;
-    animation-name: card-left-ani;
-    animation-duration: 2s;
-    animation-fill-mode: forwards;
-}
-
-@keyframes card-left-ani {
-    0% {left: -50px}
-    100% {left: 0px}
-}
-
-.card-right {
-    position: relative;
-    animation-name: card-right-ani;
-    animation-duration: 2s;
-    animation-fill-mode: forwards;
-}
-
-@keyframes card-right-ani {
-    0% {right: -50px}
-    100% {right: 0px}
-}
-
-.card-center {
-    position: relative;
-    animation-name: card-center-ani;
-    animation-duration: 2s;
-    animation-fill-mode: forwards;
-}
-
-@keyframes card-center-ani {
-    0% {top: -100px}
-    100% {top: 0px}
-}
-
-.btn {
-    animation-name: button-ani;
-    animation-duration: 2s;
-    animation-delay: 1s;
-    animation-fill-mode: forwards;
-    opacity: 0;
-}
-
-@keyframes button-ani {
-    0% {opacity: 0;}
-    100%{opacity: 1;}
-}
-/* font styling */
+/* ----------------Font stylings---------------- */
 
 .nav-item {
     font-family: 'Poppins', sans-serif;
@@ -99,6 +43,8 @@ h1 {
 .lead {
     font-weight: 700;
 }
+
+/* ----------------NavBar elements---------------- */
 
 /* navbar logo */
 
@@ -135,6 +81,8 @@ h1 {
     background-color: black;
     border: 2px #f0ad4e solid;
 }
+
+/* ----------------Jumbotron stylings---------------- */
 
 /* jumbotron index */
 
@@ -185,7 +133,7 @@ h1 {
     margin: 15%;
 }
 
-/* facilities jumbotron */
+/* Jumbotron Facilities */
 
 #jumbo-facilities {
     max-width: 100%;
@@ -205,7 +153,7 @@ h1 {
     margin: 15%;
 }
 
-/* pricing jumbotron */
+/* Jumbotron Pricing */
 
 #jumbo-prices {
     max-width: 100%;
@@ -225,7 +173,7 @@ h1 {
     margin: 15%;
 }
 
-/* safety jumbotron */
+/* Jumbotron Safety */
 
 #jumbo-safety {
     max-width: 100%;
@@ -265,15 +213,9 @@ h1 {
     margin: 15%;
 }
 
-/* #royal-jumbo-header {
-    color: #f0ad4e;
-} */
+/* ----------------Showcase Cards of services---------------- */
 
-#royal-main {
-    background-color: black;
-}
-
-/* chambers cards */
+/* Chambers cards */
 
 .chambers-card {
     margin: 40px 20px;
@@ -289,13 +231,13 @@ h1 {
 }
 
 
-/* facilities cards */
+/* Facilities cards */
 
 .facilities-card {
     margin: 40px 20px;
 }
 
-/* pricing cards */
+/* Pricing cards */
 
 .prices-card {
     margin: 40px 20px;
@@ -319,7 +261,7 @@ h1 {
     background-color: #f0ad4e;
 }
 
-/* safety cards */
+/* Safety cards */
 
 .safety-card {
     margin: 40px 20px;
@@ -340,7 +282,7 @@ h1 {
     background-color: #f0ad4e;
 }
 
-/* footer */
+/* ----------------footer---------------- */
 
 #footer-container {
   background-color: #e3f2fd;
@@ -384,6 +326,8 @@ h1 {
     padding-right: 20px;
     text-align: end;
 }
+
+/* ----------------Other Screen Sizes---------------- */
 
 /* ipad screen and below */
 
