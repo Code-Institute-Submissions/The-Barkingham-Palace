@@ -398,6 +398,10 @@ h1 {
     #contact-xs {
         display: none;
     }
+
+    #chamber-title {
+        font-size: 32px;
+    }
 }
 
 /* All jumbotron descriptions in 720px and below */
