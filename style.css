@@ -347,6 +347,33 @@ h1 {
     text-align: end;
 }
 
+/* ----------------Contact page---------------- */
+
+.contact-page-icon {
+    font-size: 70px !important;
+}
+
+.contact-page-text {
+    font-size: 30px !important;
+    color: black;
+}
+
+.contact-page-contact {
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #FDEEE3;
+}
+
+.booking-contact-button {
+    background-color: #CBE7FB;
+    text-decoration: none;
+}
+
+.booking-contact-button a {
+    color: black !important;
+}
+
 /* ----------------Other Screen Sizes---------------- */
 
 /* ipad screen and below */
@@ -421,6 +448,10 @@ h1 {
 
     #chamber-title {
         font-size: 32px;
+    }
+
+    #contact-title {
+        font-size: 30px;
     }
 }
 
