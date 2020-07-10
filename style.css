@@ -89,6 +89,10 @@ h1 {
     border: 2px #f0ad4e solid;
 }
 
+#royal-index-btn:hover {
+    /* background-color:#2e9dec; */
+}
+
 /* ----------------Jumbotron stylings---------------- */
 
 /* jumbotron index */
@@ -333,6 +337,7 @@ h1 {
     font-size: 30px;
 }
 
+a { color: inherit; } 
 
 #contact-us {
     display: flex;
@@ -405,18 +410,20 @@ label {
 
 #contact-phone-hover:hover {font-size: 30px;}
 
-#contact-phone-hover:hover:before {content:"Call Us!"}
+#contact-phone-hover:hover::before {content:"Call Us!"}
+
+.contact-links a:link, a:visited, a:hover{
+    text-decoration: none;
+}
 
 #contact-add-hover:hover span {display:none;}
 
 #contact-add-hover:hover {font-size: 30px;}
 
-#contact-add-hover:hover:before {content:"Find Us On Google Maps!"}
+#contact-add-hover:hover::before {
+    display: block;
+    content:"Find Your Way To Your Pup's Royal Santuary On Google Maps!";}
 
-
-.booking-contact-button a {
-    color: black !important;
-}
 
 /* ----------------Other Screen Sizes---------------- */
 
