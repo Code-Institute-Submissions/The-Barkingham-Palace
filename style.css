@@ -266,6 +266,7 @@ h1 {
 
 .facilities-card {
     margin: 40px 20px;
+    min-height: 55vh;
 }
 
 /* Pricing cards */
@@ -291,6 +292,7 @@ h1 {
 
 .safety-card {
     margin: 40px 20px;
+    min-height: 55vh;
 }
 
 /* Royal Club cards */
@@ -298,6 +300,7 @@ h1 {
 .royal-card {
     margin: 40px 20px;
     color: #f0ad4e;
+    min-height: 50vh;
 }
 
 .royal-card-bg {
