@@ -1,0 +1,66 @@
+/* ----------------Showcase Cards of services---------------- */
+
+/* Chambers cards */
+
+.chambers-card {
+  margin: 40px 20px;
+}
+
+.booking-button {
+  background-color: #CBE7FB;
+  /* border: 1px solid black; */
+}
+
+.card-text-background {
+  background-color: #FDEEE3;
+}
+
+
+/* Facilities cards */
+
+.facilities-card {
+  margin: 40px 20px;
+  min-height: 55vh;
+}
+
+/* Pricing cards */
+
+.prices-card {
+  margin: 40px 20px;
+}
+
+.card-text-background {
+  background-color: #FDEEE3;
+}
+
+#prices-royal-card {
+  background-color: black;
+  color: #f0ad4e;
+}
+
+#pricing-booking-btn {
+  background-color: #f0ad4e;
+}
+
+/* Safety cards */
+
+.safety-card {
+  margin: 40px 20px;
+  min-height: 55vh;
+}
+
+/* Royal Club cards */
+
+.royal-card {
+  margin: 40px 20px;
+  color: #f0ad4e;
+  min-height: 50vh;
+}
+
+.royal-card-bg {
+  background-color: black;
+}
+
+.royal-booking-btn {
+  background-color: #f0ad4e;
+}

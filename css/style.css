@@ -1,0 +1,147 @@
+/* ----------------Background Stylings---------------- */
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#royal-main {
+    background-color: black;
+}
+
+.booking-button {
+    background-color: #CBE7FB;
+}
+
+.booking-button:hover {
+    background-color:#2e9dec;
+}
+/* ----------------Font stylings---------------- */
+
+.nav-item {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-title {
+    font-family: 'Poppins', sans-serif;
+}
+
+#social-words {
+    font-family: 'Poppins', sans-serif;
+}
+
+#contact-us {
+    font-family: 'Poppins', sans-serif;
+}
+
+#address {
+    font-family: 'Poppins', sans-serif;
+}
+
+.lead {
+    font-weight: 700;
+}
+
+/* ----------------Other Screen Sizes---------------- */
+
+@media screen and (max-width: 767px) {
+    .contact-input-spacing {
+        padding-bottom: 20px;
+    }
+}
+
+/* ipad screen and below */
+
+@media screen and (max-width: 660px) {
+  #jumbotron-btn a{
+    display: block;
+    margin-bottom: 20px;
+  }
+
+  #footer-row {
+      align-items: center;
+  }
+
+  .fa {
+      font-size: 30px;
+  }
+
+  #social-words {
+      display: none;
+  }
+
+  #contact-get-back {
+      font-size: 25px;
+  }
+}
+
+/* med small screen jumbotron */
+
+@media screen and (max-width: 1100px) {
+    #jumbo-words {
+        background-color: #e3f2fdB3;
+        padding: 30px;
+        font-size: 20px;
+        max-width: 100%;
+    }
+
+    #jumbo-chamber-words {
+    background-color: #e3f2fdB3;
+    padding: 30px;
+    font-size: 20px;
+    max-width: 100%;
+    }
+
+    #jumbo-facilities-words {
+    background-color: #e3f2fdB3;
+    padding: 30px;
+    font-size: 20px;
+    max-width: 100%;
+}
+}
+
+/* large screen nav spacing */
+
+@media screen and (min-width: 1011px) {
+    .nav-item {
+    display: flex;
+    align-items: center;
+    }
+
+    #groom-facilities-text {
+        padding-bottom: 40px !important;
+    }
+}
+
+/* extra small screen */
+
+@media screen and (max-width: 527px) {
+    #contact-xs {
+        display: none;
+    }
+
+    #chamber-title {
+        font-size: 32px;
+    }
+
+    #contact-title {
+        font-size: 30px;
+    }
+}
+
+/* All jumbotron descriptions in 720px and below */
+
+@media screen and (max-width: 720px) {
+    .jumbo-description {
+        display: none;
+    }
+}
