@@ -24,10 +24,7 @@ at ease when leaving their pets with us.
 - As the pet owner, I would like to know if the pet hotel is focused on safety so I can feel at ease.
 
 
-As the pet owner, I would like to know the price of the pet hotel so I can see if it fits my budget.
-
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+- As the pet owner, I would like to know the price of the pet hotel so I can see if it fits my budget.
 
 # Features
 
@@ -58,13 +55,41 @@ This section is also where you would share links to any wireframes, mockups, dia
 - Address button changes text upon hover. It links to an address on google maps when clicked. 
 - Forms have a placeholder to allow users to visualise the infomation entered. Email input returns an error message if input is not in an email format.
 
-## Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+# Features Left to Implement
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
+1. A little interactive puppy helper at the side of the user's screen. Expands to a help menu when clicked.
+
+2. A puppy chasing a ball that rolls to whichever nav link the user clicks on the navbar.
+
+3. A wedding page with a video playing in the back of a wedding with dogs as ring bearers and with Mariage D' Amour playing in the background. 
+
+# Technologies Used
+
+1. HTML:
+- Link: https://html.com/
+- Used as the backbone of the website that users see.
+
+2. CSS:
+- Link: https://www.w3.org/Style/CSS/Overview.en.html
+- Used to style the website that users see.
+
+3. BootStrap4:
+- Link: https://getbootstrap.com/
+- Used to create a mobile responsive site.
+- Used grid system to make website look clean and tidy.
+
+4. Animate on Scroll:
+- Link: https://michalsnik.github.io/aos/
+- Used to give users a more relaxed scrolling experience by adding in fading animations.
+
+5. FontAwesome4:
+- Link: https://fontawesome.com/v4.7.0/
+- Used to add in social media, phone and address icons. This is so that users will feel more engaged when browsing.
+
+# JQuery
+
+The project uses BootStrap JQuery to simplify DOM manipulation.
+
 Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
@@ -93,7 +118,22 @@ Different configuration files?
 Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
-Credits
+# Credits
+
+## Media
+
+### The photos from this site were obtained from:
+
+- mainpagedog.jpg (https://pixabay.com/photos/dog-thoughtful-quiet-relaxed-cute-3168589/)
+- competition.jpg (https://www.nytimes.com/2020/02/11/health/westminster-dogshow-veterinarians.html)
+- chamberjumbo.jpg (https://pixabay.com/photos/springer-spaniel-dog-puppy-pillow-4094776/)
+- contactjumbo.jpg (https://canna-pet.com/are-mixed-breed-dogs-healthier-than-purebreads/)
+- dogcafe.jpg (https://unsplash.com/photos/VihbwWEHhc4)
+- dogfood.jpg (https://pixabay.com/photos/dog-food-dog-bowl-dog-kibble-5168940/)
+- dogroom1.jpg (https://pixabay.com/photos/bed-dog-animals-pets-relax-1284238/)
+- dogroom2.jpg ()
+
+
 Content
 The text for section Y was copied from the Wikipedia article Z
 Media
