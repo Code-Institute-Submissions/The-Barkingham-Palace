@@ -96,7 +96,7 @@ h1 {
 #jumbo-index {
   max-width: 100%;
   min-height: 80vh;
-  background-image: url("pictures/mainpagedog.jpg");
+  background-image: url("../pictures/mainpagedog.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
