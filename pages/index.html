@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+    <!-- AOS library css -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!-- Bootstrap and my stylesheets -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+		integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Roboto:wght@500&display=swap" rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+	<!-- navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="index.html"><img src='../pictures/barkinghamlogo1.png' alt="Barkingham logo"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav" id="nav-space">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="chambers.html">Chambers</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="facilities.html">Facilities</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="safety.html">Safety</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="pricing.html">Pricing</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact Us</a>
+                </li>
+                <li class="nav-item" id="royal-border">
+                    <a class="nav-link" href="royalclub.html">Royal Club</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+  
+  <!-- jumbotron main -->
+
+    <section> 
+        <div data-aos="fade-up"
+            data-aos-anchor-placement="top-bottom"
+            data-aos-duration="1000">
+            <div class="jumbotron" id="jumbo-index">
+                <div class="all-jumbo-words" id="jumbo-words">  
+                    <h1><strong>Pet Hotel</strong></h1>
+                    <hr class="my-4">
+                    <p>Away on holiday? Your pup will feel like she's on holiday too at The Barkingham Palace!</p>
+
+                    <!-- index jumbotron buttons -->
+
+                    <div id="jumbotron-btn">  
+                    <a class="btn btn-lg normal-btn booking-button" href="chambers.html" role="button">Chambers</a>
+                    <a class="btn btn-lg normal-btn booking-button" href="facilities.html" role="button">Facilities</a>
+                    <a class="btn btn-lg normal-btn booking-button" href="safety.html" role="button">Safety</a>
+                    <a class="btn btn-lg normal-btn booking-button" href="pricing.html" role="button">Pricing</a>
+                    <a class="btn btn-lg" id="royal-index-btn" href="royalclub.html" role="button">Royal Club</a>
+                    <hr class="my-4">
+
+                    <!-- index jumbotron contact button -->
+
+                    <p>Need a tour? Allow us to dazzle you.</p>
+                    <a class="btn btn-lg normal-btn booking-button" href="contact.html" role="button">Enquire Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> 
+
+    <!-- footer -->
+  
+    <footer> 
+        <div class="container-fluid" id="footer-container">
+            <div class="row" id="footer-row">
+                <div class="col" id="social-main">
+                    <div id="social-words">
+                        <p>Find us on Social Media!</p><br/>
+                    </div>          
+                    <div id="three-social-icons">
+                        <a href="http://facebook.com" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+                        <a href="http://twitter.com" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        <a href="http://instagram.com" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+                <div class="col" id="contact-xs">
+                    <div id="contact-us">
+                        <p><i class="fa fa-phone" aria-hidden="true"></i> +65 88887777</p>
+                    </div>
+                    <div id="address">
+                        <p><i class="fa fa-map-marker" aria-hidden="true"></i> 123 Barkingham street<br/>Singapore 555120</p>
+                    </div>
+                </div>
+            </div>   
+        </div>
+    </footer>   
+
+     <!-- AOS script -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+
+    <!-- Bootstrap JQ -->
+
+
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+		integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+	</script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+		integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+	</script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+		integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous">
+	</script>
+</body>
+
+</html> 
