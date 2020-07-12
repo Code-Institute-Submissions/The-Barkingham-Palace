@@ -94,7 +94,7 @@ The project uses BootStrap JQuery to simplify DOM manipulation.
 
 #### All testing were made manually, no automated testing was implemented.
 
-"In-depth testing file: " <a href="https://github.com/liuzhenxin2/barkinghamproject/blob/master/testing.pdf">Testing File</a>
+In-depth testing file:  <a href="https://github.com/liuzhenxin2/barkinghamproject/blob/master/testing.pdf" target="_blank">Testing File</a>
 
 Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
