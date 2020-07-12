@@ -6,6 +6,8 @@ Welcome to The Barkingham Palace, a pet hotel focused on safety, luxury and crea
 
 # UX
 
+### Concept wireframes for my layout can be found: <a href="https://github.com/liuzhenxin2/barkinghamproject/blob/master/wireframes.pdf">Wireframes</a>
+
 ### OWNER USER STORIES
 
 - As the owner of the pet hotel, I want to showcase my facilities so that guests can feel
