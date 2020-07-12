@@ -459,6 +459,14 @@ label {
 
 }
 
+/* extra large screen card heights */
+
+@media screen and (min-width: 1260px){
+    .increase-h-xl {
+        min-height:27.5vh;
+    }
+}
+
 /* med small screen jumbotron */
 
 @media screen and (max-width: 1100px) {
