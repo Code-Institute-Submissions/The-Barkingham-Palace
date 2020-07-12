@@ -100,7 +100,7 @@ The project uses BootStrap JQuery to simplify DOM manipulation.
 
 In-depth testing file:  <a href="https://github.com/liuzhenxin2/barkinghamproject/blob/master/testing.pdf">Testing File</a>
 
-#Deployment
+# Deployment
 
 Steps I took:
 1. Login to GitHub.
