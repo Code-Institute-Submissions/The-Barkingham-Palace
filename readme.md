@@ -2,7 +2,7 @@
 
 Welcome to The Barkingham Palace, a pet hotel focused on safety, luxury and creating lasting memories for all club members and their pups. We pride ourselves as being the only one of few with facilities that encompass everything from wedding events to pet surgery.
 
-![](../phonesize.gif) ![](../websize.gif)
+![](phonesize.gif) ![](websize.gif)
 
 # UX
 
