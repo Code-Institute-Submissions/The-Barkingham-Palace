@@ -90,7 +90,11 @@ at ease when leaving their pets with us.
 
 The project uses BootStrap JQuery to simplify DOM manipulation.
 
-Testing
+# Testing
+
+#### All testing were made manually, no automated testing was implemented.
+
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
@@ -120,7 +124,9 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 # Credits
 
-## Media
+### Acknowledgement
+
+This project would not have been made possible without StackOverFlow forums, w3schools and BootStrap documentation.
 
 ### The photos from this site were obtained from:
 
@@ -146,12 +152,3 @@ In addition, if it is not obvious, you should also describe how to run your code
 - safetyvet.jpg (https://freeportvetmed.com/national-pet-health-insurance/)
 - swimmingpool.jpg (https://unsplash.com/photos/rkkThs64v-A)
 - walker.jpg (https://pixabay.com/photos/dog-walker-male-2970260/)
-
-
-
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
