@@ -124,14 +124,29 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### The photos from this site were obtained from:
 
-- mainpagedog.jpg (https://pixabay.com/photos/dog-thoughtful-quiet-relaxed-cute-3168589/)
 - competition.jpg (https://www.nytimes.com/2020/02/11/health/westminster-dogshow-veterinarians.html)
 - chamberjumbo.jpg (https://pixabay.com/photos/springer-spaniel-dog-puppy-pillow-4094776/)
 - contactjumbo.jpg (https://canna-pet.com/are-mixed-breed-dogs-healthier-than-purebreads/)
 - dogcafe.jpg (https://unsplash.com/photos/VihbwWEHhc4)
 - dogfood.jpg (https://pixabay.com/photos/dog-food-dog-bowl-dog-kibble-5168940/)
 - dogroom1.jpg (https://pixabay.com/photos/bed-dog-animals-pets-relax-1284238/)
-- dogroom2.jpg ()
+- dogroom2.jpg (https://pixabay.com/photos/dog-died-german-shepherd-sleep-2817560/)
+- dogroom3.jpg (https://pixabay.com/photos/sad-dog-lying-in-bed-lying-1930479/)
+- facilitiescover.jpg (https://imgur.com/o3uha1x)
+- grooming.jpg (https://unsplash.com/photos/dHIRbh9En6I)
+- mainpagedog.jpg (https://pixabay.com/photos/dog-thoughtful-quiet-relaxed-cute-3168589/)
+- outdoor.jpg (https://unsplash.com/photos/89QlzkUSwq0)
+- priceschamber.jpg (http://oohlalaposhpets.com/blog/)
+- pricesjumbo1.jpg (https://furandcollar.com/blogs/the-wag/5-best-small-hypoallergenic-dogs-that-are-perfect)
+- pricesroyal1.jpg (https://www.shutterstock.com/image-photo/funny-dog-pembroke-welsh-corgi-teasing-1607029804?irclickid=wLFQOkQS-xyOW4bwUx0Mo3QWUkiR2NU1qSbRTg0&irgwc=1&utm_medium=Affiliate&utm_campaign=TinEye&u)
+- royaljumbo.jpg (https://www.shutterstock.com/image-photo/afghan-hound-studio-349053782?irclickid=wLFQOkQS-xyOW4bwUx0Mo3QWUkiR2NTZqSbRTg0&irgwc=1&utm_medium=Affiliate&utm_campaign=TinEye&utm_source=77643&utm_term=)
+- royalperks.jpg (https://www.health.harvard.edu/staying-healthy/the-health-benefits-and-risks-of-pet-ownership)
+- safetycleaning.jpg (https://depositphotos.com/193495394/stock-photo-dalmatian-dog-in-apron-with.html)
+- safetyjumbo.jpg (https://www.creditkarma.com/advice/i/options-huge-vet-bill)
+- safetyvet.jpg (https://freeportvetmed.com/national-pet-health-insurance/)
+- swimmingpool.jpg (https://unsplash.com/photos/rkkThs64v-A)
+- walker.jpg (https://pixabay.com/photos/dog-walker-male-2970260/)
+
 
 
 Content
